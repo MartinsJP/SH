@@ -1,0 +1,2 @@
+# SH
+Somador Hexadecimal
